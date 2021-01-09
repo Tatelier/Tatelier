@@ -48,4 +48,4 @@ Tatelierのデフォルトスキンは、ぱんじすたが自作した画像と
 ### 不具合の報告はどこに書いたら良いですか？
 Issueに書いていただければ、確認いたします。  
 [https://github.com/Tatelier/Tatelier/issues](https://github.com/Tatelier/Tatelier/issues)  
-GitHubアカウントがない場合は、YouTubeの配信時やコメントにて受け付けます。  
+GitHubアカウントがない場合は、YouTubeの配信時やコメントにて受け付けております。  
