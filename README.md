@@ -5,14 +5,14 @@
 Tatelierを利用したい方は、必ずお読みください。
 
 ## アプリの配布場所
-Releaseから利用したいバージョンをDLしてください。
+Releaseから利用したいバージョンをDLしてください。  
 https://github.com/Tatelier/Tatelier/releases
 
 ## 認証について
 Tatelierは**オンライン認証した方のみが利用できる形式**を取っております。
 (認証に対するハードルは低いですが、怪しい人は認可しません)
 
-下記URLで情報を入力いただき、認可が降りるまでお待ちください。
+下記URLで情報を入力いただき、認可が降りるまでお待ちください。  
 https://forms.gle/zSPkH3Tnu3EhMyL88
 
 
@@ -65,10 +65,10 @@ Tatelierのデフォルトスキンは、ぱんじすたが自作した画像と
 二次配布がわかった場合、その利用者並びに関係者がオリジナルのTatelierで遊ぶことができない処置を取ります。
 
 ### 不具合の報告はどこに書いたら良いですか？
-Issueに書いていただければ、確認いたします。  
+Issueに書いていただければ、確認いたします。    
 [https://github.com/Tatelier/Tatelier/issues](https://github.com/Tatelier/Tatelier/issues)  
 GitHubアカウントがない場合は、YouTubeの配信時やコメントにて受け付けております。  
 
 ### その他
-- ホームページ
+- ホームページ  
 https://tatelier.pansystar.net
