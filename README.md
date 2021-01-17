@@ -65,6 +65,6 @@ Issueに書いていただければ、確認いたします。
 [https://github.com/Tatelier/Tatelier/issues](https://github.com/Tatelier/Tatelier/issues)  
 GitHubアカウントがない場合は、YouTubeの配信時やコメントにて受け付けております。  
 
-### その他
+## その他
 - ホームページ  
 https://tatelier.pansystar.net
