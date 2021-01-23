@@ -63,7 +63,7 @@ Issueに書いていただければ、確認いたします。
 GitHubアカウントがない場合は、YouTubeの配信時やコメントにて受け付けております。  
 
 ## その他
-- 説明書
+- 説明書  
 [Instructions](https://github.com/Tatelier/Tatelier/blob/master/Instructions/Instructions.adoc)
 - ホームページ  
 https://tatelier.pansystar.net
