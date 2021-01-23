@@ -26,6 +26,8 @@ Wait a minute.
 ## 譜面ファイルの置き場所
 Resources
 
+## ライセンス
+Tatelierが利用しているライブラリのライセンスについては、License.txtに記しております。
 
 ## きっとよくある質問
 
