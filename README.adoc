@@ -6,6 +6,7 @@ Tatelierを利用したい方は、必ずお読みください。
 
 ## アプリの配布場所
 Releaseから利用したいバージョンをDLしてください。  
+
 https://github.com/Tatelier/Tatelier/releases
 
 ## 認証について
@@ -64,6 +65,8 @@ GitHubアカウントがない場合は、YouTubeの配信時やコメントに�
 
 ## その他
 - 説明書  
+
 [Manual](https://github.com/Tatelier/Tatelier/blob/master/Manual/Manual.adoc)
 - ホームページ  
+
 https://tatelier.pansystar.net
