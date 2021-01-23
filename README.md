@@ -64,6 +64,6 @@ GitHubアカウントがない場合は、YouTubeの配信時やコメントに�
 
 ## その他
 - 説明書  
-[Instructions](https://github.com/Tatelier/Tatelier/blob/master/Instructions/Instructions.adoc)
+[Manual](https://github.com/Tatelier/Tatelier/blob/master/Instructions/Instructions.adoc)
 - ホームページ  
 https://tatelier.pansystar.net
