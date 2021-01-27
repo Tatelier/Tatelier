@@ -16,6 +16,10 @@ https://forms.gle/zSPkH3Tnu3EhMyL88
 ホームページから最新版をDLできます。
 https://tatelier.pansystar.net
 
+## 動作確認済み環境
+- Windows 10 Pro (x64)
+- .NET Framework 4.7.2
+
 ## リリース情報
 Wait a minute.
 
