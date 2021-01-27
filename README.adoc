@@ -64,7 +64,9 @@ Tatelierの存在は、「知っている人だけが知ってれば良い」と
 
 ### 不具合の報告はどこに書いたら良いですか？
 Issueに書いていただければ、確認いたします。    
-[https://github.com/Tatelier/Tatelier/issues](https://github.com/Tatelier/Tatelier/issues)  
+
+- https://github.com/Tatelier/Tatelier/issues
+
 GitHubアカウントがない場合は、YouTubeの配信時やコメントにて受け付けております。  
 
 ## その他
