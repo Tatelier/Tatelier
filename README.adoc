@@ -20,9 +20,6 @@ https://tatelier.pansystar.net
 - Windows 10 Pro (x64)
 - .NET Framework 4.7.2
 
-## リリース情報
-Wait a minute.
-
 ## 遊ぶ前にお願い
 現在デバッグ版ということもあり、効果音やデフォルト曲がありません。
 大変申し訳無いのですが、各々準備いただきますようお願いします。
