@@ -28,6 +28,9 @@ https://tatelier.pansystar.net
 Tatelierが利用しているライブラリのライセンスについては、License.txtに記しております。
 ※DL時のzipにも同梱しています。
 
+## 譜面の置き場所
+Resources/Score/Root
+
 ## きっとよくある質問
 
 質問への回答を以下に記します。  
