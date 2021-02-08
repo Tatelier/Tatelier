@@ -1,3 +1,5 @@
 # ErrorCode
 エラーコード一覧です
 
+
+0x80000000 in:file
