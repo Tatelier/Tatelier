@@ -4,6 +4,6 @@
 
 Score.hjson が見つかりませんでした。
 
-MainConfig.hjson で指定した譜面フォルダ(デフォルト:Resources/Score)内にScore.hjsonがありません。 
+MainConfig.hjson で指定した譜面フォルダ ( デフォルト:Resources/Score ) 内に Score.hjson がありません。 
 
 ## English
