@@ -24,6 +24,9 @@ https://tatelier.pansystar.net
 現在デバッグ版ということもあり、効果音やデフォルト曲がありません。
 大変申し訳無いのですが、各々準備いただきますようお願いします。
 
+## 説明書
+https://github.com/Tatelier/Tatelier/tree/master/Manual
+
 ## ライセンス
 Tatelierが利用しているライブラリのライセンスについては、License.txtに記しております。
 ※DL時のzipにも同梱しています。
