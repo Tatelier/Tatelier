@@ -1,8 +1,10 @@
 # 0x80010001
 
 ## 日本語
-「Resources/Score/Score.hjson」が見つからなかったため、選曲画面の譜面一覧の作成に失敗しました。
+譜面フォルダ内にあるべき Score.hjson が見つからなかったため、選曲画面の譜面一覧の作成に失敗しました。
 
-何らかの理由でScore.hjsonが削除されているため、デフォルトのScore.hjsonをResources/Score フォルダに置いてください。
+何らかの理由でScore.hjsonが削除されているため、デフォルトのScore.hjsonを譜面フォルダに置いてください。
+
+譜面フォルダは、MainConfig.hjsonで指定されています。(デフォルト:Resources/Score)
 
 ## English
