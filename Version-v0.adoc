@@ -1,4 +1,8 @@
 # v0.$.$ - 更新履歴
+## v0.2.0 - 2021.02.13
+* 修正内容
+↓こちら
+https://github.com/Tatelier/Tatelier/milestone/1?closed=1
 
 ## v0.1.2 - 2021.02.03
 * 修正内容
