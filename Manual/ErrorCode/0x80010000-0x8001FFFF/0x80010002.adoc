@@ -1,1 +1,9 @@
+# 0x80010002
 
+## 日本語
+
+カテゴリが重複しています。
+
+Score.hjson で指定した譜面フォルダ ( デフォルト:Resources/Score ) 内に Score.hjson がありません。 
+
+## English
