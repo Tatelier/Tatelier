@@ -25,7 +25,7 @@ https://tatelier.pansystar.net
 大変申し訳無いのですが、各々準備いただきますようお願いします。
 
 ## 説明書
-https://github.com/Tatelier/Tatelier/tree/master/Manual
+https://github.com/Tatelier/Tatelier/blob/master/Manual/Manual.adoc
 
 ## ライセンス
 Tatelierが利用しているライブラリのライセンスについては、License.txtに記しております。
