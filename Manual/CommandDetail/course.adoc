@@ -1,0 +1,15 @@
+# /course
+
+## 概要
+please wait...
+
+## サンプル
+Player 1 を 鬼で決定する
+----
+/course Oni -p 1
+----
+
+Player 2と4を むずかしいで決定する
+----
+/course Hard -p 2 4
+----
