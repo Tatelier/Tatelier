@@ -41,12 +41,12 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 
 |/demo
 |
-|選曲画面時のデモ音源再生をON/OFFします。
+|選曲画面時のデモ音源再生をON/OFFする
 |
 
 |/dir
 |
-|エクスプローラでカレントディレクトリを開きます。
+|エクスプローラでカレントディレクトリを開く
 |
 
 |/exit
@@ -56,7 +56,7 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 
 |/manual
 |
-|説明書(このページ)を開きます。
+|説明書(このページ)を開く
 |
 
 |/player
