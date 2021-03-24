@@ -29,11 +29,17 @@ Tatelierはコマンドで一部機能を制御できます。以下に一部を
 |概要
 |備考
 
+|/s
+|v0.3.0 ～
+|/searchと同じ
+|
+
 |/auto
 |
 |演奏モードを切り替える
 |引数なし:1Pのモードを切替(Normal/Auto)
 https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[ detail...]
+
 |/course
 |v0.3.0 ～
 |指定したプレイヤーの難易度を決定する
