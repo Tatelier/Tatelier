@@ -35,7 +35,7 @@ Tatelierはコマンドで一部機能を制御できます。以下に一部を
 |引数なし:1Pのモードを切替(Normal/Auto)
 https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[ detail...]
 |/course
-|v0.3.0～
+|v0.3.0 ～
 |指定したプレイヤーの難易度を決定する
 |コース選択時のみ利用可能 https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/course.adoc[ detail...]
 
@@ -55,7 +55,7 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |
 
 |/homepage
-|v0.3.0～
+|v0.3.0 ～
 |Tatelierのホームページを開く
 |
 
@@ -70,7 +70,7 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |引数 1:[人数]
 
 |/search
-|v0.3.0～
+|v0.3.0 ～
 |譜面を検索する ※選曲画面時のみ有効
 |https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/search.adoc[ detail...]
 
