@@ -69,6 +69,11 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |プレイ人数を指定する
 |引数 1:[人数]
 
+|/search
+|
+|譜面を検索する ※選曲画面時のみ有効
+|https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/search.adoc[ detail...]
+
 |/speed
 |
 |譜面のスクロールスピードを指定する
