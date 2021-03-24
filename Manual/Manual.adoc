@@ -56,7 +56,7 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 
 |/homepage
 |v0.3.0～
-|Tatelierのホームページを開きます。
+|Tatelierのホームページを開く
 |
 
 |/manual
