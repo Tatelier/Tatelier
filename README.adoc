@@ -17,8 +17,10 @@ https://forms.gle/zSPkH3Tnu3EhMyL88
 https://tatelier.pansystar.net
 
 ## 動作確認済み環境
-- Windows 10 Pro (x64)
-- .NET Framework 4.7.2
+Tatelierを遊んでくださっている方々が以下のIssueにコメントを残してくださってます。動作環境を知りたい方はこちらを御覧ください。
+https://github.com/Tatelier/Tatelier/issues/11
+
+また、コメントを残してくださった方々には、この場を借りてお礼申し上げます。
 
 ## 遊ぶ前にお願い
 現在デバッグ版ということもあり、効果音やデフォルト曲がありません。
