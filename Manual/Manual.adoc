@@ -75,6 +75,10 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |説明書(このページ)を開く
 |
 
+|/option
+|v0.4.0 ～
+|オプション画面(ブラウザ)を起動する。(v0.4.0では何も設定できない)
+
 |/player
 |
 |プレイ人数を指定する
