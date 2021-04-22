@@ -91,17 +91,17 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/search.adoc[ detail...]
 
 |/scrspd
-|
+|v0.4.0 ～
 |/speedと同じ
 |
 
 |/scrollspeed
-|
+|v0.4.0 ～
 |/speedと同じ
 |
 
 |/speed
 |
 |譜面のスクロールスピードを指定する
-|引数 1:[速度(小数指定も可)]
+|https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/speed.adoc[ detail...]
 |===
