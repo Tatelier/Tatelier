@@ -3,4 +3,5 @@
 
 
 0x40000000～0x4FFFFFFF : DxLib関連のエラー
+
 0x80000000～0xFFFFFFFF : Tatelierアプリ関連のエラー
