@@ -90,6 +90,16 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |譜面を検索する ※選曲画面時のみ有効
 |https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/search.adoc[ detail...]
 
+|/scrspd
+|
+|/speedと同じ
+|
+
+|/scrollspeed
+|
+|/speedと同じ
+|
+
 |/speed
 |
 |譜面のスクロールスピードを指定する
