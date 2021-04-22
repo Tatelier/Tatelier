@@ -1,5 +1,10 @@
 # v0.$.$ - 更新履歴
 
+## v0.4.0 - 2021.04.25(予定)
+* 修正内容
+** #milestone内容を修正
+*** https://github.com/Tatelier/Tatelier/milestone/2?closed=2
+
 ## v0.3.1 - 2021.04.03
 * 修正内容
 ** #64 音源がない譜面でも遊べるように処理を変更
