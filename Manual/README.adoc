@@ -103,5 +103,5 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |/speed
 |
 |譜面のスクロールスピードを指定する
-|CommandDetail/speed.adoc[ detail...]
+|./CommandDetail/speed.adoc[ detail...]
 |===
