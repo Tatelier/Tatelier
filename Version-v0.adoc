@@ -1,6 +1,6 @@
 # v0.$.$ - 更新履歴
 
-## v0.4.0 - 2021.04.25(予定)
+## v0.4.0 - 2021.04.25
 * 更新内容
 ** #milestone内容を修正
 *** https://github.com/Tatelier/Tatelier/milestone/3?closed=1
@@ -11,7 +11,7 @@ Player***.hjsonでフォントやサイズを変更できます。Player001.hjso
 - #HBSCROLLが#STARTの前に宣言されている譜面をHBSCROLL形式で遊べるようになりました。ただし、一部挙動が太鼓さん次郎と異なっております。今後原因を探し、修正をするつもりです。予めご了承ください。
 https://github.com/Tatelier/Tatelier/issues/80
 
-
+- その他細々修正
 
 ## v0.3.1 - 2021.04.03
 * 更新内容
