@@ -3,7 +3,14 @@
 ## v0.4.0 - 2021.04.25(予定)
 * 更新内容
 ** #milestone内容を修正
-*** https://github.com/Tatelier/Tatelier/milestone/2?closed=2
+*** https://github.com/Tatelier/Tatelier/milestone/3?closed=1
+
+- 譜面読み込み時、音源ファイルと同名の歌詞ファイル(*.lrc)を見つけた場合、歌詞ファイルを読み込み表示する処理を追加しました。
+Player***.hjsonでフォントやサイズを変更できます。Player001.hjsonをご覧ください。
+
+- #HBSCROLLが#STARTの前に宣言されている譜面をHBSCROLL形式で遊べるようになりました。ただし、一部挙動が太鼓さん次郎と異なっております。今後原因を探し、修正をするつもりです。予めご了承ください。
+https://github.com/Tatelier/Tatelier/issues/80
+
 
 
 ## v0.3.1 - 2021.04.03
