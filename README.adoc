@@ -12,6 +12,8 @@ Tatelierは**オンライン認証した方のみが利用できる形式**を�
 下記URLで情報を入力いただき、認可が降りるまでお待ちください。  
 https://forms.gle/zSPkH3Tnu3EhMyL88
 
+※認証時に利用する各データをTatelier並びにぱんじすたが悪用を目的として使用することはありません。
+
 ## アプリの配布場所
 ホームページから最新版をDLできます。
 https://tatelier.pansystar.net
