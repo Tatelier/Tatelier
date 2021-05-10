@@ -107,4 +107,10 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |
 |譜面のスクロールスピードを指定する
 |https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/speed.adoc[ detail...]
+
+
+|/tlpm ※
+|v0.5.0～
+|拡張パッケージ関連の操作を行う
+|※不確定要素が多いため、v0.5.0では「discord-rpc」のみ
 |===
