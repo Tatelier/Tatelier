@@ -29,7 +29,7 @@ https://github.com/Tatelier/Tatelier/issues/11
 大変申し訳無いのですが、各々準備いただきますようお願いします。
 
 ## 説明書
-https://github.com/Tatelier/Tatelier/blob/master/Manual/Manual.adoc
+https://github.com/Tatelier/Tatelier/blob/master/Manual/Manual
 
 ## ライセンス
 Tatelierが利用しているライブラリのライセンスについては、License.txtに記しております。
