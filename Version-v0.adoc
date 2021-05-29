@@ -2,6 +2,8 @@
 
 ## v0.5.0 - 2021.05.29
 * 更新内容
+** #milestone内容を修正
+*** https://github.com/Tatelier/Tatelier/milestone/4?closed=1
 ** 一部発見したメモリリークを修正
 ** 選曲画面で「E」キーを押下したとき、/editコマンドと同等の処理をするように変更
 ** editモードの表示を変更
