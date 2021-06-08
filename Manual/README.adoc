@@ -88,6 +88,11 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |プレイ人数を指定する
 |引数 1:[人数]
 
+|/role
+|
+|権限を確認する
+|引数なし https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/role.adoc[ detail...]
+
 |/search
 |v0.3.0 ～
 |譜面を検索する ※選曲画面時のみ有効
