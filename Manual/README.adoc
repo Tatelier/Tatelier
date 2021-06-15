@@ -46,12 +46,17 @@ Tatelierはコマンドで一部機能を制御できます。以下に一部を
 |
 |演奏モードを切り替える
 |引数なし:1Pのモードを切替(Normal/Auto)
-https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[ detail...]
+https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 
 |/course
 |v0.3.0 ～
 |指定したプレイヤーの難易度を決定する
-|コース選択時のみ利用可能 https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/course.adoc[ detail...]
+|コース選択時のみ利用可能 https://tatelier.pansystar.net/docs/topics/command/?name=course[ detail...]
+
+|/decrypt
+|v0.6.0 ～
+|選択している譜面の演奏結果データを復号化し出力する。
+|※通常権限では利用できません。
 
 |/demo
 |
@@ -91,12 +96,12 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |/role
 |
 |権限を確認する
-|引数なし https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/role.adoc[ detail...]
+|引数なし https://tatelier.pansystar.net/docs/topics/command/?name=role[ detail...]
 
 |/search
 |v0.3.0 ～
 |譜面を検索する ※選曲画面時のみ有効
-|https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/search.adoc[ detail...]
+|https://tatelier.pansystar.net/docs/topics/command/?name=search[ detail...]
 
 |/scrspd
 |v0.4.0 ～
@@ -111,7 +116,7 @@ https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/auto.adoc[
 |/speed
 |
 |譜面のスクロールスピードを指定する
-|https://github.com/Tatelier/Tatelier/blob/master/Manual/CommandDetail/speed.adoc[ detail...]
+|https://tatelier.pansystar.net/docs/topics/command/?name=speed[ detail...]
 
 
 |/tlpm ※
