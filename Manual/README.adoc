@@ -94,7 +94,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 |引数 1:[人数]
 
 |/role
-|
+|v0.5.1 ～
 |権限を確認する
 |引数なし https://tatelier.pansystar.net/docs/topics/command/?name=role[ detail...]
 
