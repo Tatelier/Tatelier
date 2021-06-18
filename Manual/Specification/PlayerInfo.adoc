@@ -1,0 +1,17 @@
+# Player情報について
+Player情報は、Tatelierで遊ぶ際の
+
+## MainConfig.user.hjson 【v0.6.0～】
+MainConfig.user.hjsonでは、起動時に選択するデフォルトのプレイヤーを設定できます。
+初期は"Default"というプレイヤーとなっています。
+
+``` 
+// MainConfig.user.hjsonの内容
+///////
+{
+	// プレイヤー情報ファイルを指定
+	Players: [
+		"Resources/Player/Default.hjson" // player1
+	],
+}
+```
