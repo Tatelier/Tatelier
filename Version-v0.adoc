@@ -6,6 +6,8 @@
 *** 保存先はScreenshotsフォルダ
 ** 演奏結果を保存する処理を追加
 *** ※デバッガー権限以上でないと、演奏プレイはできません。
+*** プレイヤー情報の設定についてはこちらをご覧ください。
+**** https://github.com/Tatelier/Tatelier/blob/master/Manual/Specification/PlayerInfo.adoc
 *** 一部リソースを追加
 ** タイトルバーに権限名(英語)を表示するように変更
 ** 標準リソースを修正
