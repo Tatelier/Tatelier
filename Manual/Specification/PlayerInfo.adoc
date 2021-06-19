@@ -9,7 +9,6 @@
 
 ダイアログが表示されますので、プレイヤー情報を変更する場合はフォルダを開いてファイルの内容を変更してください。
 
-image::https://user-images.githubusercontent.com/17560479/122628822-7b591c80-d0f3-11eb-92be-f9b875087ebe.png[scaledwidth="50%",align="right"]
 ``` 
 // MainConfig.user.hjsonの内容
 ///////
