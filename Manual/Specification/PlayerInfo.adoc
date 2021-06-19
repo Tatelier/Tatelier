@@ -36,6 +36,15 @@ Resources/Playerフォルダには、プレイヤー情報のファイルがお�
 
 image::https://user-images.githubusercontent.com/17560479/122628971-82345f00-d0f4-11eb-9561-b70825a31544.png[scaledwidth="50%",align="right"]
 
+```
+// ぱんじすた.hjsonの内容
+///////
+{
+	// 名前
+	Name: "ぱんじすた", // 
+}
+
+```
 ## 最終確認
 プレイヤー名を確認する場合は、Tatelier起動後「T」キーを押下して適当なコメントを入力し、その名前を確認してください。
 
