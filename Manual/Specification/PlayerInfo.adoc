@@ -1,17 +1,45 @@
-# Player情報について
-Player情報は、Tatelierで遊ぶ際の
+# プレイヤー情報について
 
 ## MainConfig.user.hjson 【v0.6.0～】
-MainConfig.user.hjsonでは、起動時に選択するデフォルトのプレイヤーを設定できます。
-初期は"Default"というプレイヤーとなっています。
 
+### 初回起動
+初回起動時にMainConfig.user.hjsonファイルを作成します。 +
+このファイルでは、起動時に選択するデフォルトのプレイヤーを設定できます。 +
+※初期は"Default"を選択するようになっています。
+
+ダイアログが表示されますので、プレイヤー情報を変更する場合はフォルダを開いてファイルの内容を変更してください。
+
+image::https://user-images.githubusercontent.com/17560479/122628822-7b591c80-d0f3-11eb-92be-f9b875087ebe.png[scaledwidth="50%",align="right"]
 ``` 
 // MainConfig.user.hjsonの内容
 ///////
 {
 	// プレイヤー情報ファイルを指定
 	Players: [
-		"Resources/Player/Default.hjson" // player1
+		"Resources/Player/Default.hjson" // プレイヤー情報のファイルパスを指定する。
 	],
 }
 ```
+
+## Player情報ファイル
+Resources/Playerフォルダには、プレイヤー情報のファイルがおいてあります。
+初期はDefault.hjsonが置いてありますので、このファイルをコピーして各々のユーザー名に変更してご利用ください。
+
+```
+// Default.hjsonの内容
+///////
+{
+	// 名前
+	Name: "Default", // 
+}
+
+```
+
+例) プレイヤー名 "ぱんじすた" を作成した場合。
+
+image::https://user-images.githubusercontent.com/17560479/122628971-82345f00-d0f4-11eb-9561-b70825a31544.png[scaledwidth="50%",align="right"]
+
+## 最終確認
+プレイヤー名を確認する場合は、Tatelier起動後「T」キーを押下して適当なコメントを入力し、その名前を確認してください。
+
+image::https://user-images.githubusercontent.com/17560479/122629066-359d5380-d0f5-11eb-883c-62bfc7def38a.png[scaledwidth="50%",align="right"]
