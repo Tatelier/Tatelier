@@ -2,11 +2,11 @@
 
 # Tatelier
 
+image::{image}[]
+
 ## はじめに
 Tatelier(タトリエ)を利用希望の方は、本README.adocを必ずお読みください。 +
 ※READMEは連絡なく変更することがあります。
-
-image::{image}[]
 
 ## Tatelierの仕様変更 ※重要※ v0.5.1 ～
 Tatelierの通常権限では演奏プレイがオート演奏となり、**遊ぶことはできません。** +
