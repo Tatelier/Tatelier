@@ -1,4 +1,7 @@
+:image: https://user-images.githubusercontent.com/17560479/127889609-6a25a11b-2ffd-4a16-be4a-323bedd97784.png
+
 # Tatelier
+image::{image}[Tux,250,320]
 
 ## はじめに
 Tatelier(タトリエ)を利用希望の方は、本README.adocを必ずお読みください。 +
