@@ -8,6 +8,8 @@ image::{image}[]
 Tatelier(タトリエ)を利用希望の方は、本README.adocを必ずお読みください。 +
 ※READMEは連絡なく変更することがあります。
 
+image::https://user-images.githubusercontent.com/17560479/127891233-ea04ada6-db1c-42e1-9001-7f3b3507d01e.png[]
+
 ## Tatelierの仕様変更 ※重要※ v0.5.1 ～
 Tatelierの通常権限では演奏プレイがオート演奏となり、**遊ぶことはできません。** +
 権限については/roleコマンドの詳細でご確認ください。
