@@ -1,4 +1,11 @@
+:image: https://user-images.githubusercontent.com/17560479/127891086-6f5a0709-bcfc-4aa8-a15d-81ac633848b5.png
+
 # 説明書
+
+
+[link=https://tatelier.pansystar.net]
+image::{image}[]
+
 Tatelierの説明書です。認証ができている前提で記しています。
 各設定ファイルの概要は、そのファイルにコメントを記していますのでそちらをご覧ください。
 
