@@ -35,100 +35,100 @@ Tatelierはコマンドで一部機能を制御できます。以下に一部を
 [cols="1,1,1,2", options="header"]
 .コマンド一覧
 |===
-|コマンド
-|対応ver
-|概要
-|備考
+| コマンド
+| 対応ver
+| 概要
+| 備考
 
-|/s
-|v0.3.0 ～
-|/searchと同じ
+| /s
+| v0.3.0 ～
+| /searchと同じ
 |
 
-|/p
-|v0.3.0 ～
-|/playerと同じ
+| /p
+| v0.3.0 ～
+| /playerと同じ
 |
 
-|/auto
+| /auto
 |
-|演奏モードを切り替える
-|引数なし:1Pのモードを切替(Normal/Auto)
+| 演奏モードを切り替える
+| 引数なし:1Pのモードを切替(Normal/Auto)
 https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 
-|/course
-|v0.3.0 ～
-|指定したプレイヤーの難易度を決定する
-|コース選択時のみ利用可能 https://tatelier.pansystar.net/docs/topics/command/?name=course[ detail...]
+| /course
+| v0.3.0 ～
+| 指定したプレイヤーの難易度を決定する
+| コース選択時のみ利用可能 https://tatelier.pansystar.net/docs/topics/command/?name=course[ detail...]
 
-|/decrypt
-|v0.6.0 ～
-|選択している譜面の演奏結果データを復号化し出力する。
-|※通常権限では利用できません。
+| /decrypt
+| v0.6.0 ～
+| 選択している譜面の演奏結果データを復号化し出力する。
+| ※通常権限では利用できません。
 
-|/demo
+| /demo
 |
-|選曲画面時のデモ音源再生をON/OFFする
-|
+| 選曲画面時のデモ音源再生をON/OFFする
+| 
 
-|/dir
+| /dir
 |
-|エクスプローラでカレントディレクトリを開く
-|
-
-|/exit
-|
-|Tatelierを終了する
+| エクスプローラでカレントディレクトリを開く
 |
 
-|/homepage
-|v0.3.0 ～
-|Tatelierのホームページを開く
+| /exit
+|
+| Tatelierを終了する
 |
 
-|/manual
-|
-|説明書(このページ)を開く
-|
-
-|/option
-|v0.4.0 ～
-|オプション画面(ブラウザ)を起動する。(v0.4.0では何も設定できない)
+| /homepage
+| v0.3.0 ～
+| Tatelierのホームページを開く
 |
 
-|/player
+| /manual
 |
-|プレイ人数を指定する
-|引数 1:[人数]
-
-|/role
-|v0.5.1 ～
-|権限を確認する
-|引数なし https://tatelier.pansystar.net/docs/topics/command/?name=role[ detail...]
-
-|/search
-|v0.3.0 ～
-|譜面を検索する ※選曲画面時のみ有効
-|https://tatelier.pansystar.net/docs/topics/command/?name=search[ detail...]
-
-|/scrspd
-|v0.4.0 ～
-|/speedと同じ
+| 説明書(このページ)を開く
 |
 
-|/scrollspeed
-|v0.4.0 ～
-|/speedと同じ
+| /option
+| v0.4.0 ～
+| オプション画面(ブラウザ)を起動する。(v0.4.0では何も設定できない)
 |
 
-|/speed
+| /player
 |
-|譜面のスクロールスピードを指定する
-|https://tatelier.pansystar.net/docs/topics/command/?name=speed[ detail...]
+| プレイ人数を指定する
+| 引数 1:[人数]
+
+| /role
+| v0.5.1 ～
+| 権限を確認する
+| 引数なし https://tatelier.pansystar.net/docs/topics/command/?name=role[ detail...]
+
+| /search
+| v0.3.0 ～
+| 譜面を検索する ※選曲画面時のみ有効
+| https://tatelier.pansystar.net/docs/topics/command/?name=search[ detail...]
+
+| /scrspd
+| v0.4.0 ～
+| /speedと同じ
+|
+
+| /scrollspeed
+| v0.4.0 ～
+| /speedと同じ
+|
+
+| /speed
+|
+| 譜面のスクロールスピードを指定する
+| https://tatelier.pansystar.net/docs/topics/command/?name=speed[ detail...]
 
 
-|/tlpm ※
-|v0.5.0～
-|拡張パッケージ関連の操作を行う
-|※不確定要素が多いため、v0.5.0では「discord-rpc」のみ
+| /tlpm ※
+| v0.5.0～
+| 拡張パッケージ関連の操作を行う
+| ※不確定要素が多いため、v0.5.0では「discord-rpc」のみ
 |===
