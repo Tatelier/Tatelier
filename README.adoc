@@ -28,7 +28,7 @@ https://forms.gle/zSPkH3Tnu3EhMyL88
 
 
 
-## プレビュー画像
+## Tatelier プレビュー画像
 [cols="2a,2a"]
 |===
 |選曲画面
