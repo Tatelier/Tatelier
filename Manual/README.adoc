@@ -29,9 +29,10 @@ Tatelier.exeと同じ階層にある「MainConfig.hjson」がメイン設定フ�
 デフォルトでは、"Resources/Theme/v1/Play/PlayConfig"フォルダに、演奏時のスタイルを設定できるファイル(Player001.hjson etc.)が置いてあります。演奏時の人数によって呼び出されるファイルが変わります。設定項目に関しては随時更新をしていきますのでお待ちください。
 
 ## コマンド
-Tatelierはコマンドで一部機能を制御できます。以下に一部を記します。
+image::https://user-images.githubusercontent.com/17560479/128211643-1677ca12-7d8f-459b-b771-308c440ac80a.png[]
+「/」キーを押下することで、コマンド機能を利用できます。
 
-### 一覧(ミニコマンド, a-z順)
+### 公開コマンド一覧(ミニコマンド, a-z順)
 [cols="1,1,1,2", options="header"]
 .コマンド一覧
 |===
