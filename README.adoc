@@ -13,6 +13,8 @@ Tatelier(タトリエ)を利用希望の方は、本README.adocを必ずお読�
 Tatelierの通常権限では演奏プレイがオート演奏となり、**遊ぶことはできません。** +
 権限については/roleコマンドの詳細でご確認ください。
 
+image::https://user-images.githubusercontent.com/17560479/128214172-5d7ac9c5-fd68-4db5-897a-e200512b82d3.png[]
+
 https://tatelier.pansystar.net/docs/topics/command/?name=role
 
 ## 認証について
