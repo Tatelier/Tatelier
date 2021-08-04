@@ -127,4 +127,9 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | v0.5.0～
 | 拡張パッケージ関連の操作を行う
 | ※不確定要素が多いため、v0.5.0では「discord-rpc」のみ
+
+| /version
+| 
+| Tatelierのバージョンをログに表示する
+|
 |===
