@@ -67,6 +67,9 @@ Tatelierが利用しているライブラリのライセンスについては、
 ## 譜面の置き場所
 Resources/Score/Root
 
+image::https://user-images.githubusercontent.com/17560479/128099788-f88985b8-92b0-42c7-a99e-692253afe8c7.png[]
+※dummy.txtは削除して構いません。
+
 ## きっとよくある質問
 
 質問への回答を以下に記します。  
