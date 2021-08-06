@@ -1,10 +1,91 @@
 # TJA 仕様
-本ドキュメントは、Tatelierで利用するTJAファイルに関する仕様です。TJAは太鼓さん次郎で定義された譜面ファイルとなっていますが、今日までに様々なシミュレータで仕様が定義されており、
+本ドキュメントは、Tatelierで利用するTJAファイルに関する仕様です。TJAは太鼓さん次郎で定義された譜面ファイルとなっていますが、今日までに様々なシミュレータで仕様が定義されております。
 
 ## 構成
 基本構成は「概要データ」「演奏データ」に分かれています。
 
+
+## ジャンルの指定方法
+
+TJA内にジャンルを指定します。
+
+譜面のジャンルを指定します。選曲画面の表示に影響します。
+ジャンル一覧 (例)
+
+・J-POP  
+・アニメ  
+・ボーカロイド  
+・VOCALOID  
+・どうよう  
+・バラエティ  
+・ゲームミュージック  
+・ナムコオリジナル  
+
+上記以外でもジャンルの指定が可能です。
+
+
+GENRE:hoge|hoge|hoge ジャンル:1つ目に対してのジャンル|2つ目に対してのジャンル|3つ目に対してのジャンル
+
+image::https://user-images.githubusercontent.com/77183438/128522268-39010eaa-ae59-4c48-8360-870e564cd512.png[]
+
+ジャンルは一つでも可能ですが｜←の縦棒を入力することでORでジャンルを指定することができます。ORで指定すると下記の挙動になります。
+
+image::https://user-images.githubusercontent.com/77183438/128521456-28794186-b392-413a-8eba-5bada7cf4466.png[]
+
+
+image::https://user-images.githubusercontent.com/77183438/128521495-910ea40b-ff31-4b93-9220-21b064708d7a.png[]
+
+
+ジャンルを指定したら Resources\Theme\v1\SongSelect\Genresにフォルダを作成する必要があります。
+
+image::https://user-images.githubusercontent.com/77183438/128519142-3fbc226e-438c-403c-9df5-3e0ce712450c.png[]
+
+フォルダを作成したらBackground.png　ItemBackground01.png ItemBackground02.pngを作成します。
+
+次にStyle.hjsonを下記のように作成します。
+
+---
+{
+
+  //1
+  	TextColor: "#EEEEEE",
+    
+  //2
+  	TextEdgeColor: "#894306",
+    
+}
+
+---
+
+
+
+
+ジャンルをTJA内に指定したら曲フォルダに入っているScore.hjsonにジャンルを指定する必要があります。
+
+image::https://user-images.githubusercontent.com/77183438/128518380-77afc9f1-5b29-4b4a-b9c3-bc5b60beb3eb.png[]
+
+---
+
+        {
+            Name: "", //ジャンル名。
+            Detail:
+            '''
+             "" //説明文を入力できます。
+            {{ScoreCount}}曲!!  //フォルダ内に入っている曲の数。
+            '''
+            # Ambiguos … 曖昧という意味
+            Ambiguous: [
+                "Favorite" //上記のジャンル名とどちらでも指定可能です。
+            ],
+			ImageFolder: "お気に入り" //Resources\Theme\v1\SongSelect\Genresの中のフォルダ名です。
+        },
+        
+---
+
+
+
 ## 概要部
+
 
 |===
 |a
