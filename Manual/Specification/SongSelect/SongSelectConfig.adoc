@@ -1,1 +1,14 @@
+## SongSelectConfig.hjson
 
+## 概要
+選曲画面の設定ファイルです。
+
+## 構成
+
+SongSelectConfig.hjson
+----
+{
+  Elements: [
+  ]
+}
+----
