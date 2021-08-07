@@ -1,1 +1,7 @@
-# 推奨テキストエディタ「VIsual Studio Code」の環境構築について
+:VSCode: Visual Studio Code
+# 推奨テキストエディタ「{VSCode}」の環境構築について
+
+## {VSCode} のインストール
+無料の高機能テキストエディタです。下記リンクから各々の環境に合わせたものをダウンロード、インストールしてください。
+
+https://code.visualstudio.com/download[https://code.visualstudio.com/download]
