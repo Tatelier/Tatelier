@@ -7,7 +7,7 @@
 https://code.visualstudio.com/download[https://code.visualstudio.com/download]
 
 ## Hjson拡張機能の追加
-1. インストールした:VSCode:を起動し、画面左側にある拡張機能アイコンをクリックしてください。
+1. インストールした{VSCode}を起動し、画面左側にある拡張機能アイコンをクリックしてください。
 1. 検索枠で「Hjson」と入力し、Hjson拡張機能をインストールしてください。
 
 image::https://user-images.githubusercontent.com/17560479/128615421-8001b9af-7cea-4d5c-9e19-f0f7b1c15cba.png[width="50%"]
