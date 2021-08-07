@@ -17,6 +17,7 @@ image::https://user-images.githubusercontent.com/17560479/128615421-8001b9af-7ce
 ## 確認方法
 1. Hjson形式のファイルを:VSCode:で開きます。
 1. 画面右下の表示が「Hjson」になっていればOKです。
+
 image::https://user-images.githubusercontent.com/17560479/128615524-87d8f1bc-4253-4d93-9f78-f2c4714afd60.png[]
 
 
