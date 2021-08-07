@@ -2,6 +2,31 @@
 # 推奨テキストエディタ「{VSCode}」の環境構築について
 
 ## {VSCode} のインストール
-無料の高機能テキストエディタです。下記リンクから各々の環境に合わせたものをダウンロード、インストールしてください。
+1. 無料の高機能テキストエディタです。下記リンクから各々の環境に合わせたものをダウンロード、インストールしてください。
 
 https://code.visualstudio.com/download[https://code.visualstudio.com/download]
+
+## Hjson拡張機能の追加
+1. インストールした:VSCode:を起動し、画面左側にある拡張機能アイコンをクリックしてください。
+1. 検索枠で「Hjson」と入力し、Hjson拡張機能をインストールしてください。
+
+image::https://user-images.githubusercontent.com/17560479/128615421-8001b9af-7cea-4d5c-9e19-f0f7b1c15cba.png[width="50%"]
+
+以上で環境構築は終了です。
+
+## 確認方法
+1. Hjson形式のファイルを:VSCode:で開きます。
+1. 画面右下の表示が「Hjson」になっていればOKです。
+image::https://user-images.githubusercontent.com/17560479/128615524-87d8f1bc-4253-4d93-9f78-f2c4714afd60.png[]
+
+
+## ヘルプ
+### 文字化けする
+1. 画面右下の文字コード部分をクリックしてください。
+
+image::https://user-images.githubusercontent.com/17560479/128615582-d0eadcb2-2a82-457e-9233-6bdee361b413.png[]
+
+1. 「エンコード付きで再度開く」を押下し、想定している文字コードを選択してください。
+
+image::https://user-images.githubusercontent.com/17560479/128615648-64213ee5-f036-47c3-bf8c-a5fc1b2f3cc6.png[]
+
