@@ -9,6 +9,7 @@ SongSelectConfig.hjson
 ----
 {
   Elements: [
+    // 選曲画面の設定
   ]
 }
 ----
