@@ -28,6 +28,11 @@ image::https://user-images.githubusercontent.com/17560479/128211643-1677ca12-7d8
 | 引数なし:1Pのモードを切替(Normal/Auto)
 https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 
+| /connect
+| v0.8.0 ～
+| サーバに接続します。
+|
+
 | /course
 | v0.3.0 ～
 | 指定したプレイヤーの難易度を決定する
@@ -86,6 +91,11 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | /scrollspeed
 | v0.4.0 ～
 | /speedと同じ
+|
+
+| /server
+| v0.8.0
+| 対戦やリモート操作を可能にするサーバを起動します。
 |
 
 | /speed
