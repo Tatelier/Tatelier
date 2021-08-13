@@ -32,7 +32,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | /battle
 | v0.8.0 ～
 | 対戦用サーバを起動します。
-|
+https://tatelier.pansystar.net/docs/topics/command/?name=battle[ detail...]
 
 | /connect
 | v0.8.0 ～
