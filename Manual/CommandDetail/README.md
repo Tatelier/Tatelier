@@ -2,3 +2,106 @@
 Tatelierは、「/」キーを押下するとコマンド入力が可能な状態になります。
 
 Tatelierのコマンドは、複雑な指定を可能にしているコマンドがいくつか存在します。該当のコマンドをまとめていますので御覧ください。
+
+
+### 公開コマンド一覧(ミニコマンド, a-z順)
+[cols="1,1,1,2", options="header"]
+.コマンド一覧
+|===
+| コマンド
+| 対応ver
+| 概要
+| 備考
+
+| /s
+| v0.3.0 ～
+| /searchと同じ
+|
+
+| /p
+| v0.3.0 ～
+| /playerと同じ
+|
+
+| /auto
+|
+| 演奏モードを切り替える
+| 引数なし:1Pのモードを切替(Normal/Auto)
+https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
+
+| /course
+| v0.3.0 ～
+| 指定したプレイヤーの難易度を決定する
+| コース選択時のみ利用可能 https://tatelier.pansystar.net/docs/topics/command/?name=course[ detail...]
+
+| /decrypt
+| v0.6.0 ～
+| 選択している譜面の演奏結果データを復号化し出力する。
+| ※通常権限では利用できません。
+
+| /demo
+|
+| 選曲画面時のデモ音源再生をON/OFFする
+| 
+
+| /dir
+|
+| エクスプローラでカレントディレクトリを開く
+|
+
+| /exit
+|
+| Tatelierを終了する
+|
+
+| /homepage
+| v0.3.0 ～
+| Tatelierのホームページを開く
+|
+
+| /manual
+|
+| 説明書(このページ)を開く
+|
+
+| /player
+|
+| プレイ人数を指定する
+| 引数 1:[人数]
+
+| /role
+| v0.5.1 ～
+| 権限を確認する
+| 引数なし https://tatelier.pansystar.net/docs/topics/command/?name=role[ detail...]
+
+| /search
+| v0.3.0 ～
+| 譜面を検索する ※選曲画面時のみ有効
+| https://tatelier.pansystar.net/docs/topics/command/?name=search[ detail...]
+
+| /scrspd
+| v0.4.0 ～
+| /speedと同じ
+|
+
+| /scrollspeed
+| v0.4.0 ～
+| /speedと同じ
+|
+
+| /speed
+|
+| 譜面のスクロールスピードを指定する
+| https://tatelier.pansystar.net/docs/topics/command/?name=speed[ detail...]
+
+
+| /tlpm ※
+| v0.5.0～
+| 拡張パッケージ関連の操作を行う
+| ※不確定要素が多いため、v0.5.0では「discord-rpc」のみ
+
+| /version
+| 
+| Tatelierのバージョンをログに表示する
+|
+|===
