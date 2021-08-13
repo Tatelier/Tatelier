@@ -93,9 +93,9 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | /speedと同じ
 |
 
-| /server
+| /battle
 | v0.8.0 ～
-| 対戦やリモート操作を可能にするサーバを起動します。
+| 対戦用サーバを起動します。
 |
 
 | /speed
