@@ -94,7 +94,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 |
 
 | /server
-| v0.8.0
+| v0.8.0 ～
 | 対戦やリモート操作を可能にするサーバを起動します。
 |
 
