@@ -1,0 +1,28 @@
+# /remote
+## 概要
+
+## 対応Ver
+v0.8.0～
+
+## 概要
+Tatelierを遠隔操作するためのサーバを起動/停止します。
+
+## 【重要】スマホなど、別の端末から操作するために必要な設定
+Windowsでは、
+管理者権限のコマンドプロンプトを起動し、
+
+### 有効化
+----
+netsh http add urlacl url=http://+:[ポート番号]/ user=everyone
+----
+
+### 無効化
+----
+netsh http delete urlacl url=http://+:[ポート番号]/
+----
+
+### 例
+image::https://user-images.githubusercontent.com/17560479/129577184-25f1eef3-5aa5-4e1b-a0eb-63bedb0874e6.png[]
+
+## netsh 参考URL
+http://www.moonmile.net/blog/archives/6406[http://www.moonmile.net/blog/archives/6406]
