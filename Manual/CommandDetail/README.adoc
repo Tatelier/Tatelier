@@ -74,6 +74,11 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | プレイ人数を指定する
 | 引数 1:[人数]
 
+| /remote
+| v0.8.0
+| 遠隔操作サーバを起動/停止します。
+| https://tatelier.pansystar.net/docs/topics/command/?name=remote[ detail...]
+
 | /role
 | v0.5.1 ～
 | 権限を確認する
