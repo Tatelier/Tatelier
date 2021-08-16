@@ -1,3 +1,5 @@
+:default-port: 62000
+
 # /remote
 ## 概要
 
@@ -7,16 +9,29 @@ v0.8.0～
 ## 概要
 Tatelierを遠隔操作するためのサーバを起動/停止します。
 
-## 【重要】スマホなど、別の端末から操作するために必要な設定
-Windowsでは、
-管理者権限のコマンドプロンプトを起動し、
+## 【重要】別の端末から操作するために必要な設定
+端的に言うと、**普通に起動しただけでは利用できません。** +
+「Tatelier.exeを**管理者権限で起動**する」or「netshコマンドを管理者権限コマンドプロンプトで実行しておく」のどちらかを実施する必要があります。
 
+### 設定方法 その1. 管理者権限でTatelier.exeを起動する
+
+1. Tatelier.exeを右クリックし、「管理者として実行(A)」を押下して起動してください。
+
+image::https://user-images.githubusercontent.com/17560479/129580721-4120bf5e-2538-4abc-86e8-a3ef61892ec2.png[]
+2. 「/remote」コマンドを実行してください。
+
+
+### 設定方法 その2. netshコマンド
 ### 有効化
+※**「/remote」を入力する前に**以下のコマンドを実行してください。
 ----
 netsh http add urlacl url=http://+:[ポート番号]/ user=everyone
 ----
+※有効化した場合は、Tatelier.exeを管理者権限で実行する必要はありません。
+[ポート番号]の部分は、接続する際のポート番号に置き換えてください。(デフォルト:{default-port})
 
 ### 無効化
+「/remote」を使わなくなった場合に実行してください。
 ----
 netsh http delete urlacl url=http://+:[ポート番号]/
 ----
@@ -24,5 +39,22 @@ netsh http delete urlacl url=http://+:[ポート番号]/
 ### 例
 image::https://user-images.githubusercontent.com/17560479/129577184-25f1eef3-5aa5-4e1b-a0eb-63bedb0874e6.png[]
 
-## netsh 参考URL
+## コマンド例
+* デフォルトポート [{default-port}] でサーバを起動
+----
+/remote
+----
+
+
+* ポートを指定してサーバを起動
+----
+/remote -p [ポート番号]
+----
+
+* サーバを停止
+----
+/remote --stop
+----
+
+## 参考URL
 http://www.moonmile.net/blog/archives/6406[http://www.moonmile.net/blog/archives/6406]
