@@ -72,7 +72,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | /manual
 | 
 | 説明書ページを開く
-| https://github.com/Tatelier/Tatelier/tree/master/Manual [ Manual ]
+| https://github.com/Tatelier/Tatelier/tree/master/Manual[ Manual ]
 
 | /player
 |
