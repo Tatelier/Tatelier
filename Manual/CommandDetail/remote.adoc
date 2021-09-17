@@ -29,7 +29,7 @@ ___
 ### 有効化
 ※**「/remote」を入力する前に**以下のコマンドを実行してください。
 ----
-netsh http add urlacl url=http://+:{default-port}/ user=everyone
+netsh http add urlacl url=http://+:62000/ user=everyone
 ----
 ※有効化した場合は、Tatelier.exeを管理者権限で実行する必要はありません。
 [ポート番号]の部分は、接続する際のポート番号に置き換えてください。(デフォルト:{default-port})
@@ -37,7 +37,7 @@ netsh http add urlacl url=http://+:{default-port}/ user=everyone
 ### 無効化
 「/remote」を使わなくなった場合に実行してください。
 ----
-netsh http delete urlacl url=http://+:{default-port}/
+netsh http delete urlacl url=http://+:62000/
 ----
 
 ### 例
