@@ -11,7 +11,8 @@ Tatelierを遠隔操作するためのサーバを起動/停止します。
 
 ## 【重要】別の端末から操作するために必要な設定
 端的に言うと、**普通に起動しただけでは利用できません。** +
-「Tatelier.exeを**管理者権限で起動**する」or「netshコマンドを管理者権限コマンドプロンプトで実行しておく」のどちらかを実施する必要があります。
+「Tatelier.exeを**管理者権限で起動**する」or「netshコマンドを管理者権限コマンドプロンプトで実行しておく」のどちらかを実施する必要があります。 +
+※Tatelierを起動している端末でのみ遠隔操作を使う場合は、上記を行う必要がありません。
 
 ___
 
@@ -28,7 +29,7 @@ ___
 ### 有効化
 ※**「/remote」を入力する前に**以下のコマンドを実行してください。
 ----
-netsh http add urlacl url=http://+:62000/ user=everyone
+netsh http add urlacl url=http://+:{default-port}/ user=everyone
 ----
 ※有効化した場合は、Tatelier.exeを管理者権限で実行する必要はありません。
 [ポート番号]の部分は、接続する際のポート番号に置き換えてください。(デフォルト:{default-port})
@@ -36,7 +37,7 @@ netsh http add urlacl url=http://+:62000/ user=everyone
 ### 無効化
 「/remote」を使わなくなった場合に実行してください。
 ----
-netsh http delete urlacl url=http://+:62000/
+netsh http delete urlacl url=http://+:{default-port}/
 ----
 
 ### 例
@@ -58,6 +59,8 @@ image::https://user-images.githubusercontent.com/17560479/129577184-25f1eef3-5aa
 ----
 /remote --stop
 ----
+
+## その他
 
 ## 参考URL
 - http://www.moonmile.net/blog/archives/6406[HttpListener と TcpListener の違いと Firewall と netsh の設定]
