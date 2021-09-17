@@ -13,6 +13,8 @@ Tatelierを遠隔操作するためのサーバを起動/停止します。
 端的に言うと、**普通に起動しただけでは利用できません。** +
 「Tatelier.exeを**管理者権限で起動**する」or「netshコマンドを管理者権限コマンドプロンプトで実行しておく」のどちらかを実施する必要があります。
 
+___
+
 ### 設定方法 その1. 管理者権限でTatelier.exeを起動する
 
 1. Tatelier.exeを右クリックし、「管理者として実行(A)」を押下して起動してください。
@@ -20,12 +22,13 @@ Tatelierを遠隔操作するためのサーバを起動/停止します。
 image::https://user-images.githubusercontent.com/17560479/129580721-4120bf5e-2538-4abc-86e8-a3ef61892ec2.png[]
 2. 「/remote」コマンドを実行してください。
 
+___
 
 ### 設定方法 その2. netshコマンド
 ### 有効化
 ※**「/remote」を入力する前に**以下のコマンドを実行してください。
 ----
-netsh http add urlacl url=http://+:[ポート番号]/ user=everyone
+netsh http add urlacl url=http://+:62000/ user=everyone
 ----
 ※有効化した場合は、Tatelier.exeを管理者権限で実行する必要はありません。
 [ポート番号]の部分は、接続する際のポート番号に置き換えてください。(デフォルト:{default-port})
@@ -33,7 +36,7 @@ netsh http add urlacl url=http://+:[ポート番号]/ user=everyone
 ### 無効化
 「/remote」を使わなくなった場合に実行してください。
 ----
-netsh http delete urlacl url=http://+:[ポート番号]/
+netsh http delete urlacl url=http://+:62000/
 ----
 
 ### 例
