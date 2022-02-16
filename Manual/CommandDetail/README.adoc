@@ -28,18 +28,6 @@ image::https://user-images.githubusercontent.com/17560479/128211643-1677ca12-7d8
 | 引数なし:1Pのモードを切替(Normal/Auto)
 https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 
-| /inverse
-| v0.12.0 ～
-| 音符をあべこべ状態にする
-
-| /random
-| v0.12.0 ～
-| 音符をランダムにする
-
-| /seed
-| v0.12.0 ～
-| /randomで利用するシード値を取得・設定する
-
 | /battle
 | v0.9.0 ～
 | 対戦用サーバを起動する
@@ -80,6 +68,11 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | Tatelierのホームページを開く
 |
 
+| /inverse
+| v0.12.0 ～
+| 音符をあべこべ状態にする
+
+
 | /manual
 | 
 | 説明書ページを開く
@@ -95,6 +88,10 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | 遠隔操作サーバを起動/停止します。
 | https://tatelier.pansystar.net/docs/topics/command/?name=remote[ detail...]
 
+| /random
+| v0.12.0 ～
+| 音符をランダムにする
+
 | /role
 | v0.5.1 ～
 | 権限を確認する
@@ -104,6 +101,10 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | v0.3.0 ～
 | 譜面を検索する ※選曲画面時のみ有効
 | https://tatelier.pansystar.net/docs/topics/command/?name=search[ detail...]
+
+| /seed
+| v0.12.0 ～
+| /randomで利用するシード値を取得・設定する
 
 | /scrspd
 | v0.4.0 ～
