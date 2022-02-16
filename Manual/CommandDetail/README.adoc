@@ -71,7 +71,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | /inverse
 | v0.12.0 ～
 | 音符をあべこべ状態にする
-
+|
 
 | /manual
 | 
@@ -91,6 +91,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | /random
 | v0.12.0 ～
 | 音符をランダムにする
+|
 
 | /role
 | v0.5.1 ～
@@ -105,6 +106,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | /seed
 | v0.12.0 ～
 | /randomで利用するシード値を取得・設定する
+|
 
 | /scrspd
 | v0.4.0 ～
