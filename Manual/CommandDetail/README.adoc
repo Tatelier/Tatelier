@@ -68,11 +68,6 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | Tatelierのホームページを開く
 |
 
-| /inverse
-| v0.12.0 ～
-| 音符をあべこべ状態にする
-|
-
 | /manual
 | 
 | 説明書ページを開く
@@ -88,11 +83,6 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 | 遠隔操作サーバを起動/停止します。
 | https://tatelier.pansystar.net/docs/topics/command/?name=remote[ detail...]
 
-| /random
-| v0.12.0 ～
-| 音符をランダムにする
-|
-
 | /role
 | v0.5.1 ～
 | 権限を確認する
@@ -105,7 +95,7 @@ https://tatelier.pansystar.net/docs/topics/command/?name=auto[ detail...]
 
 | /seed
 | v0.12.0 ～
-| /randomで利用するシード値を取得・設定する
+| 音符ランダムで利用するシード値を取得・設定する
 |
 
 | /scrspd
